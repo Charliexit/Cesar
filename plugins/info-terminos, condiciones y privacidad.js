@@ -109,7 +109,7 @@ _- NO usar el Bot siendo NÃºmero(s) Oficial(es) para llevar a cabo alguna acci
 
 _- NO use el comando de SPAM repetidamente, ya que ProvocarÃ¡ un Mal funcionamiento en el BOT, tampoco envie al BOT mensajes que puedan comprometer el Funcionamiento de la misma._
 
-_- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodidad, intranquilidad, molestia u otro termino tajante, se tomarÃ¡n las respectivas sanciones o llamados de alerta para prevalecer la integridad de los/las Usuarios(as) y funcionamiento de GataBot._
+_- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodidad, intranquilidad, molestia u otro termino tajante, se tomarÃ¡n las respectivas sanciones o llamados de alerta para prevalecer la integridad de los/las Usuarios(as) y funcionamiento de Charlie-MD._
 
 
 *ESTE ES EL REPOSITORIO OFICIAL*
@@ -127,7 +127,7 @@ _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodi
 
 
 *~ Muchas Gracias Por tomarte el tiempo en informate sobre Charlie*` 
-conn.sendButton(m.chat, Terminos, `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Cuenta Oficial\nhttps://www.instagram.com/gata_dios`, pp, [
+conn.sendButton(m.chat, Terminos, `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Cuenta Oficial\nhttps://instagram.com/emx._xit?igshid=MzNlNGNkZWQ4Mg==`, pp, [
 ['ð™ˆð™šð™£ð™ªÌ ð™˜ð™¤ð™¢ð™¥ð™¡ð™šð™©ð™¤ | ð™ð™ªð™¡ð™¡ ð™ˆð™šð™£ð™ª ðŸ’«', '.allmenu'],
 ['ð™ˆð™šð™£ð™ª ð™™ð™šð™¨ð™¥ð™¡ð™šð™œð™–ð™—ð™¡ð™š | ð™ˆð™šð™£ð™ª ð™‡ð™žð™¨ð™© ðŸŒŸ', '/menulista'],
 ['ð™ˆð™šð™£ð™ª ð™‹ð™§ð™žð™£ð™˜ð™žð™¥ð™–ð™¡ | ð™ˆð™–ð™žð™£ ð™¢ð™šð™£ð™ª âš', '#menu']

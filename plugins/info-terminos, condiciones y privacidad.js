@@ -81,7 +81,7 @@ _- Es posible que en NÃºmero(s) Oficial(es) el Bot no estÃ© Activado las 24 
 
 _- El chat anÃ³nimo del comando #start, valga la redundancia no mostrarÃ¡ ningÃºn dato de los Usuarios por parte de Charlie. Eso no implica que las personas que hagan uso de esta funciÃ³n puedan dar a conocer sus datos. en NÃºmero(s) Oficial(es)._
 
-_- Los Datos que Obtenga GataBot en Cuentas Oficiales de Usuarios(as), Grupos y Ajustes del Mismo puede verse Reiniciado, Modificado, y/o Retificado con el fin de que el Bot este en Ã“ptimas Condiciones para su Uso. (Usuarios(as) Pueden Pedir CompensaciÃ³n Por Instagram o por el comando #Reporte. Debe de Presentar Pruebas)._
+_- Los Datos que Obtenga Charlie en Cuentas Oficiales de Usuarios(as), Grupos y Ajustes del Mismo puede verse Reiniciado, Modificado, y/o Retificado con el fin de que el Bot este en Ã“ptimas Condiciones para su Uso. (Usuarios(as) Pueden Pedir CompensaciÃ³n Por Instagram o por el comando #Reporte. Debe de Presentar Pruebas)._
 
 _- NO somos responsable si Hay alteraciones de este Bot no siendo NÃºmero(s) Oficial(es) y tengan de uso un Repositorio de GitHub que no corresponda al Oficial, o que implementen Usuarios de Terceros integraciones que comprometan a los(as) Usuarios(as) al utilizar Versiones no Oficiales._
 

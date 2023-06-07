@@ -13,7 +13,7 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
 }
 
-if (/^@51994156047|@)994156047$/i.test(m.text) ) { //sem prefixo
+if (/^@51994156047|@51994156047$/i.test(m.text) ) { //sem prefixo
     let teks = `
 ${pickRandom([`Mi Creador me trata muy mal 😭 , Ayuda es el muy na mentira se les agradece.*/n*a todas esas personitas que me siguen prefiriendo Gracias<3`])}
 `.trim()

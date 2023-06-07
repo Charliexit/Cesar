@@ -113,20 +113,20 @@ _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodi
 
 
 *ESTE ES EL REPOSITORIO OFICIAL*
-*https://github.com/GataNina-Li/GataBot-MD*
+*en mantenimiento:(*
 
 
 *CUENTA OFICIAL DE ASISTENCIA - INSTAGRAM*
-~ _Solo en esta Cuenta Respondo si tiene Dudas, Preguntas o Necesita Ayuda sobre GataBot, TambiÃ©n puede Comunicarse en Caso de Temas de ColaboraciÃ³n_
-*https://www.instagram.com/gata_dios*
+~ _Solo en esta Cuenta Respondo si tiene Dudas, Preguntas o Necesita Ayuda sobre Charlie-MD, TambiÃ©n puede Comunicarse en Caso de Temas de ColaboraciÃ³n_
+*https://instagram.com/emx._xit?igshid=MzNlNGNkZWQ4Mg==*
 
 
-*DONAR A LA CREADORA EN ESTA CUENTA OFICIAL*
+*DONAR AL CREADOR EN ESTA CUENTA OFICIAL*
 ~ _Si te Agrada y valoras el Trabajo que he realizado, puedes ayudarme en Donar para que pueda continuar en este Proyecto_
-*https://paypal.me/OficialGD*
+*https://paypal.me/EmersonBot*
 
 
-*~ Muchas Gracias Por tomarte el tiempo en informate sobre GataBot*` 
+*~ Muchas Gracias Por tomarte el tiempo en informate sobre Charlie*` 
 conn.sendButton(m.chat, Terminos, `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Cuenta Oficial\nhttps://www.instagram.com/gata_dios`, pp, [
 ['ð™ˆð™šð™£ð™ªÌ ð™˜ð™¤ð™¢ð™¥ð™¡ð™šð™©ð™¤ | ð™ð™ªð™¡ð™¡ ð™ˆð™šð™£ð™ª ðŸ’«', '.allmenu'],
 ['ð™ˆð™šð™£ð™ª ð™™ð™šð™¨ð™¥ð™¡ð™šð™œð™–ð™—ð™¡ð™š | ð™ˆð™šð™£ð™ª ð™‡ð™žð™¨ð™© ðŸŒŸ', '/menulista'],

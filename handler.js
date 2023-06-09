@@ -954,7 +954,7 @@ let chatgptUser = global.chatgpt.data.users[m.sender];
                 if (!('sDemote' in chat)) chat.sDemote = ''                    
                 if (!('delete' in chat))
                     chat.delete = true                    
-                if (!('modohorny' in chat)) chat.modohorny = false                    
+                if (!('modohorny' in chat)) chat.modohorny = true                    
                 if (!('stickers' in chat)) chat.stickers = true                    
                 if (!('autosticker' in chat)) chat.autosticker = false                      
                 if (!('audios' in chat)) chat.audios = true                     
@@ -1018,7 +1018,7 @@ let chatgptUser = global.chatgpt.data.users[m.sender];
 		if (!('autoread2' in settings)) settings.autoread2 = false
                 if (!('restrict' in settings)) settings.restrict = false
 		if (!('temporal' in settings)) settings.temporal = true
-                if (!('antiPrivate' in settings)) settings.antiPrivate = false
+                if (!('antiPrivate' in settings)) settings.antiPrivate = true
 		if (!('antiCall' in settings)) settings.antiCall = true
 		if (!('antiSpam' in settings)) settings.antiSpam = true
 		if (!('jadibotmd' in settings)) settings.jadibotmd = true  

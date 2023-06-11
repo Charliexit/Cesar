@@ -945,7 +945,7 @@ let chatgptUser = global.chatgpt.data.users[m.sender];
                 global.db.data.chats[m.chat] = {}
 		
             if (chat) {
-                if (!('isBanned' in chat)) chat.isBanned = false                    
+                if (!('isBanned' in chat)) chat.isBanned = true                    
                 if (!('welcome' in chat)) chat.welcome = true                    
                 if (!('detect' in chat)) chat.detect = true                    
                 if (!('sWelcome' in chat)) chat.sWelcome = ''                    
